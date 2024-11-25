@@ -1,4 +1,4 @@
-# Coronary-Artery-Disease-CAD-Prediction-Model
+# Coronary Artery Disease Prediction
 
 ## Detection using Machine Learning Models
 
