@@ -7,8 +7,10 @@ This project focuses on developing an efficient machine learning-based diagnosti
 
 ## Built With
 
-Python
-scikit-learn (sklearn)
-Pandas
-Matplotlib
+Python,
+scikit-learn (sklearn),
+Pandas,
+Matplotlib,
+Numpy,
+Seaborn,
 Jupyter Notebook
